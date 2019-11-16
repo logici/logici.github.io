@@ -1,7 +1,7 @@
 # Site settings
 title: Logici Blog
 SEOTitle: Logici的博客 | Logici Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/logici.png
 email: youli3631@gmail.com
 description: "Every failure is leading towards success."
 keyword: "logic, Blogs, live, cool,cooking , computer, IT, writing,reading"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/logici/logici.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "It was fate!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/logici.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
