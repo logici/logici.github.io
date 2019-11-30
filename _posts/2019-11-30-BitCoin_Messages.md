@@ -690,9 +690,6 @@ A:pushVersion	===>		B:provessVersion 	===>    B:(provessVersion中)pushVersion  
 有点怪怪的。。。
 
 
-
-​    threadGroup.create_thread(boost::bind(&TraceThread<void (*)()>, "msghand", &ThreadMessageHandler));
-
 参考：
 
 1.https://github.com/bitcoin/bitcoin
