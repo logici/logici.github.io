@@ -6,7 +6,7 @@ author:     BY Logici                      # 作者
 header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
-    - apue
+    - APUE
 
 # Unix基础知识
 
@@ -168,7 +168,7 @@ C标准中有两个函数输出错误：
 
 ![malloc&sbrk](\img\apue\first\malloc&sbrk.PNG)
 
-![lib&system](D:\Blogs\apue\picture\first\lib&system.PNG)
+![lib&system](img\apue\first\lib&system.PNG)
 
 系统调用提供了最基本的功能接口，库函数在此基础上丰富了这个功能，方便开发者使用。
 
@@ -180,5 +180,5 @@ C标准中有两个函数输出错误：
 
 ![exercise2](\img\apue\first\exercise1_2.PNG)
 
-![answer](D:\Blogs\apue\picture\first\answer.PNG)
+![answer](img\apue\first\answer.PNG)
 
